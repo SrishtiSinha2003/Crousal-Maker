@@ -24,16 +24,16 @@ Crousal Maker is a simple, user-friendly platform that allows you to customize p
 - tinyColor2
 
 ### Getting Started
-# 1. Clone the repo
+ 1. Clone the repo
 ```bash
 git clone https://github.com/taqui-786/crousal-maker.git
 cd crousal-maker
 ```
-# 2. Install dependencies
+ 2. Install dependencies
 ```bash
 npm install
 ```
-# 3. Run the development server
+ 3. Run the development server
 ```bash
 npm run dev
 ```
