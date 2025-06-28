@@ -1,6 +1,8 @@
 ### 🎠 Crousal Maker
 Crousal Maker is a simple, user-friendly platform that allows you to customize pre-built carousel templates by editing headings, descriptions, and images. With just a few clicks, you can download your carousel in both PDF and JPEG formats — ideal for quick content creation and social media posts.
 
+### Live at: https://crousal-maker-xi.vercel.app/
+
 ### 🚀 Features
 - ✏️ Edit headings, descriptions, and images of pre-designed carousel templates
 
@@ -20,4 +22,5 @@ Crousal Maker is a simple, user-friendly platform that allows you to customize p
 - js-pdf
 - Html2canvas
 - tinyColor2
+
 
