@@ -14,10 +14,10 @@ Crousal Maker is a simple, user-friendly platform that allows you to customize p
 
 ## TECH STACK
 
-Nextjs
-Typescript
-Shadcn UI
-js-pdf
-Html2canvas
-tinyColor2
+- Nextjs
+- Typescript
+- Shadcn UI
+- js-pdf
+- Html2canvas
+- tinyColor2
 
