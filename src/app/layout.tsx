@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Crousal Maker",
-  description: "Crousal Maker created by Taqui Imam",
+  description: "Crousal Maker created by Srishti Sinha",
 };
 
 export default function RootLayout({
